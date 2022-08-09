@@ -24,3 +24,4 @@ clear
 echo "Concluindo a instalação"
 cp -R * /var/www/html
 echo "Instalação concluída"
+echo "Acesse no seu navegador o endereço http://seuip/ para navegar pelo site"
