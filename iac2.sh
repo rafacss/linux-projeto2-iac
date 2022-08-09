@@ -15,7 +15,7 @@ echo "Baixando o código do site"
 wget https://github.com/denilsonbonatti/linux-site-dio/archive/refs/heads/main.zip
 echo "Descompactando pacote de instalação do site"
 unzip main.zip
-cd linux-site-dio
+cd linux-site-dio-main
 echo"Concluindo a instalação"
 cp -R * /var/www/html
 echo"Instalação concluída"
