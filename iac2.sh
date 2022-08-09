@@ -4,7 +4,7 @@ cd /
 # Bootcamp Linux Experience - Professor Denilson Bonatti
 # Repositório Script Bootcamp Linux Experience - Apache
 
- echo "Atualizando os pacotes do sistema"
+echo "Atualizando os pacotes do sistema"
 apt update
 echo "Instalando os novos pacotes do sistema"
 apt upgrade -y
